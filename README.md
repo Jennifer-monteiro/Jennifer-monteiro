@@ -33,6 +33,10 @@ Check out my new portfolio [jennifer-monteiro.com](https://jennifer-monteiro.com
 
 <!--START_SECTION:waka-->
 
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 #### Github Stats
