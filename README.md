@@ -59,5 +59,4 @@ Brief description of the project. What technologies were used? What is the proje
 
 #### Github Stats
 
-![Jennifer's github stats](https://github-readme-stats.vercel.app/api?username=jennifer-monteiro&count_private=true&show_icons=true&include_all_commits=true&line_height=30&hide_title=false&hide_rank=false&custom_title=Jennifer's%20GitHub%20Stats&hide_border=true&border_radius=10&locale=en&card_width=500&theme=tokyonight
-)
+![Jennifer's github stats](https://github-readme-stats.vercel.app/api?username=jennifer-monteiro&count_private=true&show_icons=true&include_all_commits=true&line_height=30&hide_title=false&hide_rank=false&custom_title=Jennifer's%20GitHub%20Stats&hide_border=true&border_radius=10&locale=en&card_width=500&theme=tokyonight)
