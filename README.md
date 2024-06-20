@@ -38,21 +38,24 @@ Check out my new portfolio [jennifer-monteiro.com](https://jennifer-monteiro.com
 [![Debugging Badge](https://img.shields.io/badge/-Debugging-E44D26?style=for-the-badge&labelColor=black&logo=bug&logoColor=E44D26)](#)
 
 
-
-
-
-
 <br >
+<!-- ### Last Projects
 
-#### Coding Stats
+#### Project 1: Title
+Brief description of the project. What technologies were used? What is the project about? Any special features?
+- [Repository](https://github.com/yourusername/project1)
+- [Live Demo](https://yourusername.github.io/project1)
 
-<!--START_SECTION:waka-->
+#### Project 2: Title
+Brief description of the project. What technologies were used? What is the project about? Any special features?
+- [Repository](https://github.com/yourusername/project2)
+- [Live Demo](https://yourusername.github.io/project2)
 
-```txt
-No activity tracked
-```
+#### Project 3: Title
+Brief description of the project. What technologies were used? What is the project about? Any special features?
+- [Repository](https://github.com/yourusername/project3)
+- [Live Demo](https://yourusername.github.io/project3) -->
 
-<!--END_SECTION:waka-->
 
 #### Github Stats
 
